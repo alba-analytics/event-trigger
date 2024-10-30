@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "useDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "python",
+        "FUNCTIONS_EXTENSION_VERSION": "~4",
+        "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": null,
+        "WEBSITE_CONTENTSHARE": null,
+        "APPINSIGHTS_INSTRUMENTATIONKEY": null,
+        "QUEUE_NAME": null
+    }
+}
